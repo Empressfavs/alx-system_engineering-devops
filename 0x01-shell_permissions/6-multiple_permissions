@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug+x, r+o file
+chmod ug+x, o+r file
